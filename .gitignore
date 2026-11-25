@@ -1,0 +1,27 @@
+# 데이터 (용량이 커서 저장소에 올리지 않음)
+data/
+*.pkl
+*.npz
+*.npy
+
+# 모델 가중치 (Hugging Face Hub에 올림)
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+results/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 환경
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
