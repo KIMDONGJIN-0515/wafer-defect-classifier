@@ -17,7 +17,11 @@
 
 ### 불량 패턴 9종
 
-<!-- TODO(김동진): visualize.py로 만든 클래스별 예시 그림을 assets/에 넣고 표에 추가 -->
+<p align="center">
+  <img src="assets/wafer_patterns_example.png" width="600" alt="웨이퍼 맵 불량 패턴 9종 예시">
+</p>
+
+> 위 그림은 패턴 특징을 설명하기 위해 직접 그린 예시입니다. 실제 WM-811K 데이터로 만든 그림으로 추후 교체할 예정입니다.
 
 | 패턴 | 설명 |
 | --- | --- |
